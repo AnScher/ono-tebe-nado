@@ -1,1 +1,14 @@
-/* место для вашего кода */
+body {
+    font-family: "Raleway";
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+content {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
