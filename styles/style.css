@@ -221,7 +221,7 @@ body {
     gap: 25px;
     grid-template-columns: repeat(3, 1fr);
     list-style: none;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
 }
 
 .card-link {
